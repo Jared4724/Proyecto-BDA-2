@@ -21,7 +21,7 @@ La interfaz está construida con **CustomTkinter**, proporcionando una experienc
 Autenticación de usuarios validada directamente contra el procedimiento `sp_login` en Oracle.
 
 
-<img width="669" height="429" alt="image" src="https://github.com/user-attachments/assets/cb3e7c9d-598c-49f0-9d27-36aa0012977c" />
+<img width="669" height="429" alt="Captura de pantalla 2026-09-24 222147" src="https://github.com/user-attachments/assets/5c155d20-c1cb-4b48-a6d9-4ac62a3cdfba" />
 
 
 ### 2. Panel Principal / Feed y Gestión (Admin & User)
