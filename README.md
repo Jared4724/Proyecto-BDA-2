@@ -19,18 +19,24 @@ La interfaz está construida con **CustomTkinter**, proporcionando una experienc
 
 ### 1. Pantalla de Inicio de Sesión
 Autenticación de usuarios validada directamente contra el procedimiento `sp_login` en Oracle.
+<img width="297" height="264" alt="loginrellenado" src="https://github.com/user-attachments/assets/8c9f3fc6-ae35-4a75-b761-ffcac8a149af" />
 
-![Login](docs/screenshots/interfaz_login.png)
 
 ### 2. Panel Principal / Feed y Gestión (Admin & User)
-- **Feed Interactivo:** Visualización de posts en orden cronológico inverso, mostrando autor, fecha, categorías asociadas (badges naranjas), etiquetas (badges verdes) y sección desplegable de comentarios.
+- **Feed Interactivo:** Visualización de posts en orden cronológico inverso, mostrando autor, fecha, categorías asociadas, etiquetas (badges verdes y sección desplegable de comentarios.
+<img width="698" height="202" alt="vista de blog" src="https://github.com/user-attachments/assets/b7cee329-14a7-41f4-b706-df692f2488a0" />
+
 - **Filtrado Dinámico:** Selector combobox para filtrar publicaciones por categoría.
+<img width="747" height="450" alt="filtrado de blogs por categoria" src="https://github.com/user-attachments/assets/25a4c753-4c5e-4dab-9438-6fdfdc701a04" />
+
 - **Pestaña de Publicación:** Creación de artículos con selección múltiple mediante checkboxes para categorías y tags.
 - **Pestañas Exclusivas de Administrador:**
   - *Gestionar Usuarios:* Alta de nuevos usuarios con rol asignado (`ADMIN` / `USER`) y eliminación de usuarios existentes.
+<img width="710" height="164" alt="gestion de usuarios(solo admins)" src="https://github.com/user-attachments/assets/0d195e1e-1746-492a-b867-83d6398144fc" />
+
   - *Categorías & Tags:* Creación rápida de nuevas taxonomías para el blog.
 
-![Interfaz Principal](docs/screenshots/interfaz_admin.png)
+<img width="259" height="151" alt="agregar categorias y tags(solo admins)" src="https://github.com/user-attachments/assets/cfaa4e6b-ed34-4361-a442-955ff430ea02" />
 
 ---
 
