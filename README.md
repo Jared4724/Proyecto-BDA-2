@@ -19,7 +19,7 @@ La interfaz está construida con **CustomTkinter**, proporcionando una experienc
 
 ### 1. Pantalla de Inicio de Sesión
 Autenticación de usuarios validada directamente contra el procedimiento `sp_login` en Oracle.
-<img width="297" height="264" alt="loginrellenado" src="https://github.com/user-attachments/assets/8c9f3fc6-ae35-4a75-b761-ffcac8a149af" />
+
 
 <img width="669" height="429" alt="image" src="https://github.com/user-attachments/assets/cb3e7c9d-598c-49f0-9d27-36aa0012977c" />
 
